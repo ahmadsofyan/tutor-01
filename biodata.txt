@@ -1,3 +1,4 @@
 NO.REG	:1820010301
 NAMA	:Ahmad sofyan
 Jurusan	:SE
+angkatan : 2018
